@@ -3,16 +3,16 @@ import base64
 print("Idle Breakout Save Hack by Xsus")
 
 print("What level do you want to be on?")
-level = input()
+level = (20)
 
 print("What amount of money would you like to have")
-money = input()
+money = (100000000000000000000000)
 
 print("How much gold do you want")
-gold = input()
+gold = (99999999999999999999999)
 
 print("How many Black Boxes?")
-bb = input()
+bb = (7846587943687965879345)
 
 print("How many skillpoints")
 sp = input()
